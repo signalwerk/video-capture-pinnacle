@@ -32,3 +32,9 @@ Mode: All three LEDs are constantly lit in blue
 
 - [Pinnacle Video Transfer Manual – German](./pinnacle-video-transfer-de.pdf)
 - [Pinnacle Video Transfer Manual – English](./pinnacle-video-transfer-en.pdf)
+
+<!--
+https://asset.conrad.com/media10/add/160267/c1/-/en/000952111ML02/gebruiksaanwijzing-952111-pinnacle-video-transfer.pdf
+https://asset.conrad.com/media10/add/160267/c1/-/fr/000952111ML03/gebruiksaanwijzing-952111-pinnacle-video-transfer.pdf
+https://asset.conrad.com/media10/add/160267/c1/-/de/000952111ML01/gebruiksaanwijzing-952111-pinnacle-video-transfer.pdf
+-->
